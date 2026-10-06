@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dongmin Koo (구동민)
+# 👋 Dongmin Koo (구동민)
 
 > **Data & AI Engineer / Backend Developer**  
 > LLM, 데이터 파이프라인, FastAPI 기반의 견고한 백엔드 시스템을 구축합니다.
